@@ -11,8 +11,6 @@ import com.example.easynotes.model.Note;
 import com.example.easynotes.repository.NoteRepository;
 
 
-
-
 @RestController
 @RequestMapping("/api")
 public class NoteController {
